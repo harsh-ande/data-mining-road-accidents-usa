@@ -36,3 +36,5 @@ python3 ./script.py
 - Model evaluation metrics (accuracy, precision, recall).
 - Feature importance rankings.
 - Heatmaps of accident-prone locations.
+
+Project Report: https://sjsu0-my.sharepoint.com/:w:/g/personal/chaitanyanaidu_guntipalli_sjsu_edu/EXTFqUvJzeNNhFz1EWBDD0IBdMUI9SAuWIENvO2QSh_8pQ?e=KMW555
